@@ -1,0 +1,18 @@
+[FATAL] 2019-02-23 20:37:04.953 [main] FileEnter - File was not found!
+[FATAL] 2019-02-23 20:37:37.170 [main] FileEnter - File was not found!
+[FATAL] 2019-02-23 20:48:54.901 [main] FileEnter - File was not found!
+[FATAL] 2019-02-23 20:48:55.354 [main] FileEnter - File was not found!
+[FATAL] 2019-02-28 11:41:40.339 [main] FileEnter - File was not found!
+[FATAL] 2019-02-28 11:41:40.460 [main] FileEnter - File was not found!
+[ERROR] 2019-02-28 11:41:40.873 [main] TetrahedronRepository - No such id!!!
+[ERROR] 2019-02-28 11:41:40.927 [main] TetrahedronRepository - No such id!!!
+[ERROR] 2019-02-28 11:41:40.938 [main] TetrahedronRepository - No such tetrahedrons!!!
+[ERROR] 2019-02-28 11:41:41.398 [main] TetrahedronRepository - No Such Value In Repository Exception!
+[ERROR] 2019-02-28 11:41:41.524 [main] TetrahedronRepository - No Such Key In Repository Exception!
+[FATAL] 2019-03-08 17:38:27.952 [main] FileEnter - File was not found!
+[FATAL] 2019-03-08 17:38:29.082 [main] FileEnter - File was not found!
+[ERROR] 2019-03-08 17:38:30.885 [main] TetrahedronRepository - No such id!!!
+[ERROR] 2019-03-08 17:38:30.965 [main] TetrahedronRepository - No such id!!!
+[ERROR] 2019-03-08 17:38:31.002 [main] TetrahedronRepository - No such tetrahedrons!!!
+[ERROR] 2019-03-08 17:38:34.532 [main] TetrahedronRepository - No Such Value In Repository Exception!
+[ERROR] 2019-03-08 17:38:34.803 [main] TetrahedronRepository - No Such Key In Repository Exception!
